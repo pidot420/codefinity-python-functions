@@ -1,6 +1,6 @@
 # Define the function
-___():
-    print('___')
+def print_name():
+    print('My name is : Firdaus')
 
 # Call the function for testing  
 print_name()
